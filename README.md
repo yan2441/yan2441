@@ -28,9 +28,18 @@
   <a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/> </a>
   <a href="https://pandas.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/pandas/pandas-original.svg" alt="pandas" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://pytorch.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/pytorch/pytorch-icon.svg" alt="pytorch" width="40" height="40"/> </a>  <a href="https://sass-lang.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/sass/sass-original.svg" alt="sass" width="40" height="40"/> </a> <a href="https://scikit-learn.org/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" alt="scikit_learn" width="40" height="40"/> </a> <a href="https://seaborn.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://seaborn.pydata.org/_images/logo-mark-lightbg.svg" alt="seaborn" width="40" height="40"/> </a> <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" width="40" height="40"/>  <a href="https://webpack.js.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/d00d0969292a6569d45b06d3f350f463a0107b0d/icons/webpack/webpack-original-wordmark.svg" alt="webpack" width="40" height="40"/> </a> </p>
 
-<a><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=yan2441&show_icons=true&theme=github_dark&locale=en&layout=compact" alt="yan2441" /></a>
 
-<a><img align="center" src="https://github-readme-stats.vercel.app/api?username=yan2441&show_icons=true&locale=en&theme=github_dark" alt="yan2441" /></a>
+  <summary>💻 GitHub Profile Stats</summary>
+  <br/>
+    <a href="https://github.com/anuraghazra/github-readme-stats">
+    <img alt="yan2441's Github Stats" src="https://denvercoder1-github-readme-stats.vercel.app/api/?username=yan2441&show_icons=true&count_private=true&theme=github_dark&hide_border=true" height="192px"/>
+    </a>
+  <a  href="https://github.com/anuraghazra/github-readme-stats">
+  <img alt="yan2441's Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=yan2441&langs_count=8&layout=compact&theme=github_dark&hide_border=true&hide=R" height="192px"/>
+  </a>
+  <br/>
+  <b>Note:</b> Top languages is only a metric of the languages my public code consists of and doesn't reflect experience or skill level.
+<br/>
 
 
-<a><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=yan2441&theme=algolia&hide_border=true&date_format=M%20j%5B%2C%20Y%5D&sideLabels=396AE8&fire=DD690D&dates=C3D0D8&background=0D1117&stroke=64A2FC&ring=568BD8&currStreakNum=C3D0D8&sideNums=C3D0D8&currStreakLabel=64A2FC" alt="yan2441" /></a>
+<a style="margin: auto; display: block;" ><img style="margin: auto; display: block;" src="https://github-readme-streak-stats.herokuapp.com/?user=yan2441&theme=algolia&hide_border=true&date_format=M%20j%5B%2C%20Y%5D&sideLabels=396AE8&fire=DD690D&dates=C3D0D8&background=0D1117&stroke=64A2FC&ring=568BD8&currStreakNum=C3D0D8&sideNums=C3D0D8&currStreakLabel=64A2FC" alt="yan2441" /></a>
