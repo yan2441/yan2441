@@ -1,45 +1,145 @@
-<h1 align="center">Hi 👋, I'm Yassine Najem</h1>
-<h3 align="center">A passionate React-frontend developer interested in AI/ML from Morocco</h3>
+<!-- Centered intro -->
+<div align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Inter&weight=700&pause=900&center=true&vCenter=true&width=1100&lines=Hi+%F0%9F%91%8B%2C+I'm+Yassine+Najem;Software+Engineer+(Go+%2B+TypeScript+%2B+AI%2FML);Full-stack+%2B+GenAI%2FRAG;APIs%2C+voice+agents%2C+and+web+apps" alt="Typing header" />
+</div>
 
-<p align="center"> <img src="https://komarev.com/ghpvc/?username=yan2441&label=Profile%20view&color=b40e0e&style=flat" alt="yan2441" /> </p>
-
-<p align="center"> <a href="https://twitter.com/yan2441" target="blank"><img src="https://img.shields.io/twitter/follow/yan2441?logo=twitter&style=for-the-badge" alt="yan2441" /></a> </p>
-
-<p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=yan2441&theme=algolia&column=7&margin-w=15&margin-h=15" alt="yan2441" /></a> </p>
-
-- 👨‍💻 check my projects protfolio at [https://yassdev.netlify.app/](https://yassdev.netlify.app/)
-
-- 💬 Ask me about **react, react Native, redux, typescript**
-
-- 📫 How to reach me **Yassine.najem01@gmail.com**
-
-<h3 align="center">Connect with me:</h3>
 <p align="center">
-<a href="https://twitter.com/yan2441" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="yan2441" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/yassine-najem" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="yassine-najem" height="30" width="40" /></a>
-<a href="https://kaggle.com/yassinenajem" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/kaggle.svg" alt="yassinenajem" height="30" width="40" /></a>
-<a href="https://www.leetcode.com/yasen2441" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="yasen2441" height="30" width="40" /></a>
+  <a href="https://yassdev.netlify.app/"><img alt="Website" src="https://img.shields.io/badge/Website-yassdev.netlify.app-0D1117?style=flat&logo=vercel&logoColor=white"></a>
+  <a href="https://x.com/yan2441"><img alt="X" src="https://img.shields.io/badge/@yan2441-0D1117?style=flat&logo=x&logoColor=white"></a>
+  <a href="https://linkedin.com/in/yassine-najem"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-Yassine%20Najem-0A66C2?style=flat&logo=linkedin&logoColor=white"></a>
+  <img alt="Views" src="https://komarev.com/ghpvc/?username=yan2441&label=Profile%20views&color=0e75b6&style=flat">
 </p>
 
-<h3 align="center">Languages and Tools:</h3>
-<p align="center"> 
-  </a> <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="40" height="40"/> </a>
-  <a href="https://reactnative.dev/" target="_blank" rel="noreferrer"> <img src="https://reactnative.dev/img/header_logo.svg" alt="reactnative" width="40" height="40"/> </a> <a href="https://redux.js.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redux/redux-original.svg" alt="redux" width="40" height="40"/> </a> <a href="https://www.chartjs.org" target="_blank" rel="noreferrer"> <img src="https://www.chartjs.org/media/logo-title.svg" alt="chartjs" width="40" height="40"/> </a> <a href="https://expressjs.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="express" width="40" height="40"/> </a> <a href="https://firebase.google.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="firebase" width="40" height="40"/> </a> <a href="https://gulpjs.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/gulp/gulp-plain.svg" alt="gulp" width="40" height="40"/> </a> <a href="https://hadoop.apache.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/apache_hadoop/apache_hadoop-icon.svg" alt="hadoop" width="40" height="40"/> </a> <a href="https://heroku.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/heroku/heroku-icon.svg" alt="heroku" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://nextjs.org/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/nextjs-2.svg" alt="nextjs" width="40" height="40"/> </a> <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> <a href="https://opencv.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/opencv/opencv-icon.svg" alt="opencv" width="40" height="40"/> </a> 
-  <a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/> </a>
-  <a href="https://pandas.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/pandas/pandas-original.svg" alt="pandas" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://pytorch.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/pytorch/pytorch-icon.svg" alt="pytorch" width="40" height="40"/> </a>  <a href="https://sass-lang.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/sass/sass-original.svg" alt="sass" width="40" height="40"/> </a> <a href="https://scikit-learn.org/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" alt="scikit_learn" width="40" height="40"/> </a> <a href="https://seaborn.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://seaborn.pydata.org/_images/logo-mark-lightbg.svg" alt="seaborn" width="40" height="40"/> </a> <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" width="40" height="40"/>  <a href="https://webpack.js.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/d00d0969292a6569d45b06d3f350f463a0107b0d/icons/webpack/webpack-original-wordmark.svg" alt="webpack" width="40" height="40"/> </a> </p>
+<h3 align="center">I build Go services, TypeScript frontends, and production AI (RAG, orchestration, voice)</h3>
 
+- Portfolio: **https://yassdev.netlify.app/**
+- Contact: **Yassine.najem01@gmail.com**
 
-  <summary>💻 GitHub Profile Stats</summary>
-  <br/>
-    <a href="https://github.com/anuraghazra/github-readme-stats">
-    <img alt="yan2441's Github Stats" src="https://denvercoder1-github-readme-stats.vercel.app/api/?username=yan2441&show_icons=true&count_private=true&theme=github_dark&hide_border=true" height="192px"/>
-    </a>
-  <a  href="https://github.com/anuraghazra/github-readme-stats">
-  <img alt="yan2441's Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=yan2441&langs_count=8&layout=compact&theme=github_dark&hide_border=true&hide=R" height="192px"/>
-  </a>
-  <br/>
-  <b>Note:</b> Top languages is only a metric of the languages my public code consists of and doesn't reflect experience or skill level.
-<br/>
+---
 
+## 📊 Metrics (auto-updated)
+<p align="center">
+  <img src="./github-metrics.svg" alt="GitHub Metrics" />
+</p>
 
-<a style="margin: auto; display: block;" ><img style="margin: auto; display: block;" src="https://github-readme-streak-stats.herokuapp.com/?user=yan2441&theme=algolia&hide_border=true&date_format=M%20j%5B%2C%20Y%5D&sideLabels=396AE8&fire=DD690D&dates=C3D0D8&background=0D1117&stroke=64A2FC&ring=568BD8&currStreakNum=C3D0D8&sideNums=C3D0D8&currStreakLabel=64A2FC" alt="yan2441" /></a>
+## 📈 GitHub stats
+<p align="center">
+  <img height="170" src="https://github-readme-stats.vercel.app/api?username=yan2441&show_icons=true&count_private=true&theme=github_dark&hide_border=true" alt="Stats"/>
+  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=yan2441&layout=compact&langs_count=8&theme=github_dark&hide_border=true&size_weight=0.5&count_weight=0.5" alt="Top Languages"/>
+</p>
+<p align="center">
+  <img src="https://streak-stats.demolab.com?user=yan2441&theme=algolia&hide_border=true" alt="Contribution Streak"/>
+</p>
+
+## ⚡ Recent activity
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=yan2441&theme=github-dark&hide_border=true" alt="Activity Graph"/>
+</p>
+
+## 🧩 LeetCode
+<p align="center">
+  <img src="https://leetcard.jacoblin.cool/yasen2441?ext=heatmap&theme=dark" alt="LeetCode Stats"/>
+</p>
+
+## ⏱️ Weekly coding (WakaTime)
+<!--START_SECTION:waka-->
+<!-- Auto-filled by your WakaTime workflow -->
+<!--END_SECTION:waka-->
+
+---
+
+## 🧠 AI/ML & GenAI stack
+<p align="center">
+  <!-- Core -->
+  <img alt="Python" src="https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white">
+  <img alt="PyTorch" src="https://img.shields.io/badge/PyTorch-EE4C2C?logo=pytorch&logoColor=white">
+  <img alt="TensorFlow" src="https://img.shields.io/badge/TensorFlow-FF6F00?logo=tensorflow&logoColor=white">
+  <img alt="scikit-learn" src="https://img.shields.io/badge/scikit--learn-F7931E?logo=scikitlearn&logoColor=white">
+  <img alt="OpenAI" src="https://img.shields.io/badge/OpenAI-412991?logo=openai&logoColor=white">
+  <img alt="Hugging Face" src="https://img.shields.io/badge/Hugging%20Face-FFD21E?logo=huggingface&logoColor=black">
+  <!-- Orchestration -->
+  <img alt="LangChain" src="https://img.shields.io/badge/LangChain-000000?style=flat">
+  <img alt="LlamaIndex" src="https://img.shields.io/badge/LlamaIndex-000000?style=flat">
+  <!-- Retrieval -->
+  <img alt="Qdrant" src="https://img.shields.io/badge/Qdrant-000000?style=flat">
+  <img alt="Weaviate" src="https://img.shields.io/badge/Weaviate-000000?style=flat">
+  <img alt="Pinecone" src="https://img.shields.io/badge/Pinecone-000000?style=flat">
+  <img alt="pgvector" src="https://img.shields.io/badge/pgvector-000000?style=flat">
+  <!-- Eval & guardrails -->
+  <img alt="OpenTelemetry" src="https://img.shields.io/badge/OpenTelemetry-000000?style=flat">
+</p>
+
+**Focus areas**
+- RAG: chunking, embeddings, re-ranking, evaluation.
+- LLM apps: tools/agents, function calling, safety/guardrails.
+- Voice AI: real-time pipelines with Asterisk/WebRTC.
+
+---
+
+## 🧰 Back-end stack
+<p align="center">
+  <img alt="Go" src="https://img.shields.io/badge/Go-00ADD8?logo=go&logoColor=white">
+  <img alt="gRPC" src="https://img.shields.io/badge/gRPC-000000?logo=grpc&logoColor=white">
+  <img alt="Protocol Buffers" src="https://img.shields.io/badge/Protobuf-000000?style=flat">
+  <img alt="PostgreSQL" src="https://img.shields.io/badge/Postgres-4169E1?logo=postgresql&logoColor=white">
+  <img alt="MySQL" src="https://img.shields.io/badge/MySQL-4479A1?logo=mysql&logoColor=white">
+  <img alt="Redis" src="https://img.shields.io/badge/Redis-DC382D?logo=redis&logoColor=white">
+  <img alt="NATS" src="https://img.shields.io/badge/NATS-27AAE1?logo=nats&logoColor=white">
+  <img alt="Kafka" src="https://img.shields.io/badge/Kafka-231F20?logo=apachekafka&logoColor=white">
+  <img alt="GraphQL" src="https://img.shields.io/badge/GraphQL-E10098?logo=graphql&logoColor=white">
+  <img alt="OpenAPI" src="https://img.shields.io/badge/OpenAPI-6BA539?logo=openapiinitiative&logoColor=white">
+</p>
+
+## 🎛️ Front-end stack
+<p align="center">
+  <img alt="TypeScript" src="https://img.shields.io/badge/TypeScript-3178C6?logo=typescript&logoColor=white">
+  <img alt="React" src="https://img.shields.io/badge/React-20232A?logo=react&logoColor=61DAFB">
+  <img alt="Next.js" src="https://img.shields.io/badge/Next.js-000?logo=next.js&logoColor=white">
+  <img alt="Tailwind CSS" src="https://img.shields.io/badge/Tailwind-06B6D4?logo=tailwindcss&logoColor=white">
+  <img alt="Vite" src="https://img.shields.io/badge/Vite-646CFF?logo=vite&logoColor=white">
+</p>
+
+## 📞 Voice & realtime
+<p align="center">
+  <img alt="Asterisk" src="https://img.shields.io/badge/Asterisk-ED1C24?logo=asterisk&logoColor=white">
+  <img alt="WebRTC" src="https://img.shields.io/badge/WebRTC-333333?logo=webrtc&logoColor=white">
+  <img alt="SIP.js" src="https://img.shields.io/badge/SIP.js-000000?style=flat">
+  <img alt="LiveKit" src="https://img.shields.io/badge/LiveKit-000000?style=flat">
+</p>
+
+## 🧪 Quality, Ops & Infra
+<p align="center">
+  <img alt="GitHub Actions" src="https://img.shields.io/badge/GitHub%20Actions-2088FF?logo=githubactions&logoColor=white">
+  <img alt="Docker" src="https://img.shields.io/badge/Docker-2496ED?logo=docker&logoColor=white">
+  <img alt="Kubernetes" src="https://img.shields.io/badge/Kubernetes-326CE5?logo=kubernetes&logoColor=white">
+  <img alt="Helm" src="https://img.shields.io/badge/Helm-0F1689?logo=helm&logoColor=white">
+  <img alt="Grafana" src="https://img.shields.io/badge/Grafana-F46800?logo=grafana&logoColor=white">
+  <img alt="Prometheus" src="https://img.shields.io/badge/Prometheus-E6522C?logo=prometheus&logoColor=white">
+  <img alt="Terraform" src="https://img.shields.io/badge/Terraform-7B42BC?logo=terraform&logoColor=white">
+  <img alt="APISIX" src="https://img.shields.io/badge/Apache%20APISIX-000000?style=flat">
+  <img alt="NGINX" src="https://img.shields.io/badge/NGINX-009639?logo=nginx&logoColor=white">
+</p>
+
+## 🗄️ Data & storage
+<p align="center">
+  <img alt="PostgreSQL" src="https://img.shields.io/badge/Postgres-4169E1?logo=postgresql&logoColor=white">
+  <img alt="MySQL" src="https://img.shields.io/badge/MySQL-4479A1?logo=mysql&logoColor=white">
+  <img alt="MongoDB" src="https://img.shields.io/badge/MongoDB-47A248?logo=mongodb&logoColor=white">
+  <img alt="SQLite" src="https://img.shields.io/badge/SQLite-003B57?logo=sqlite&logoColor=white">
+  <img alt="S3" src="https://img.shields.io/badge/Amazon%20S3-569A31?logo=amazons3&logoColor=white">
+</p>
+
+---
+
+## 🐍 Contribution snake
+<p align="center">
+  <img src="https://raw.githubusercontent.com/yan2441/yan2441/output/github-contribution-grid-snake.svg" alt="Snake animation">
+</p>
+
+## Connect
+<p align="center">
+  <a href="https://x.com/yan2441"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="X/Twitter" height="28" /></a>
+  <a href="https://linkedin.com/in/yassine-najem"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="LinkedIn" height="28" /></a>
+  <a href="https://kaggle.com/yassinenajem"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/kaggle.svg" alt="Kaggle" height="28" /></a>
+  <a href="https://www.leetcode.com/yasen2441"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="LeetCode" height="28" /></a>
+</p>
