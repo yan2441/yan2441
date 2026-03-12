@@ -17,10 +17,19 @@
 
 ---
 
-## 📊 Metrics (auto-updated)
+## 🚀 Featured projects
+
+<!-- Replace the repo names below with your actual repos -->
 <p align="center">
-  <img src="./github-metrics.svg" alt="GitHub Metrics" />
+  <a href="https://github.com/yan2441/voicebot">
+    <img height="130" src="https://github-readme-stats.vercel.app/api/pin/?username=yan2441&repo=voicebot&theme=github_dark&hide_border=true" alt="voicebot"/>
+  </a>
+  <a href="https://github.com/yan2441/rag-pipeline">
+    <img height="130" src="https://github-readme-stats.vercel.app/api/pin/?username=yan2441&repo=rag-pipeline&theme=github_dark&hide_border=true" alt="rag-pipeline"/>
+  </a>
 </p>
+
+---
 
 ## 📈 GitHub stats
 <p align="center">
@@ -51,10 +60,8 @@
   <img alt="LangChain" src="https://img.shields.io/badge/LangChain-000000?style=flat">
   <img alt="LlamaIndex" src="https://img.shields.io/badge/LlamaIndex-000000?style=flat">
   <!-- Retrieval -->
-  <img alt="Qdrant" src="https://img.shields.io/badge/Qdrant-000000?style=flat">
-  <img alt="Weaviate" src="https://img.shields.io/badge/Weaviate-000000?style=flat">
-  <img alt="Pinecone" src="https://img.shields.io/badge/Pinecone-000000?style=flat">
   <img alt="pgvector" src="https://img.shields.io/badge/pgvector-000000?style=flat">
+  <img alt="Pinecone" src="https://img.shields.io/badge/Pinecone-000000?style=flat">
   <!-- Eval & guardrails -->
   <img alt="OpenTelemetry" src="https://img.shields.io/badge/OpenTelemetry-000000?style=flat">
 </p>
@@ -78,6 +85,8 @@
   <img alt="Kafka" src="https://img.shields.io/badge/Kafka-231F20?logo=apachekafka&logoColor=white">
   <img alt="GraphQL" src="https://img.shields.io/badge/GraphQL-E10098?logo=graphql&logoColor=white">
   <img alt="OpenAPI" src="https://img.shields.io/badge/OpenAPI-6BA539?logo=openapiinitiative&logoColor=white">
+  <img alt="MongoDB" src="https://img.shields.io/badge/MongoDB-47A248?logo=mongodb&logoColor=white">
+  <img alt="SQLite" src="https://img.shields.io/badge/SQLite-003B57?logo=sqlite&logoColor=white">
 </p>
 
 ## 🎛️ Front-end stack
@@ -108,27 +117,13 @@
   <img alt="Terraform" src="https://img.shields.io/badge/Terraform-7B42BC?logo=terraform&logoColor=white">
   <img alt="APISIX" src="https://img.shields.io/badge/Apache%20APISIX-000000?style=flat">
   <img alt="NGINX" src="https://img.shields.io/badge/NGINX-009639?logo=nginx&logoColor=white">
-</p>
-
-## 🗄️ Data & storage
-<p align="center">
-  <img alt="PostgreSQL" src="https://img.shields.io/badge/Postgres-4169E1?logo=postgresql&logoColor=white">
-  <img alt="MySQL" src="https://img.shields.io/badge/MySQL-4479A1?logo=mysql&logoColor=white">
-  <img alt="MongoDB" src="https://img.shields.io/badge/MongoDB-47A248?logo=mongodb&logoColor=white">
-  <img alt="SQLite" src="https://img.shields.io/badge/SQLite-003B57?logo=sqlite&logoColor=white">
   <img alt="S3" src="https://img.shields.io/badge/Amazon%20S3-569A31?logo=amazons3&logoColor=white">
 </p>
 
 ---
 
-## 🐍 Contribution snake
-<p align="center">
-  <img src="https://raw.githubusercontent.com/yan2441/yan2441/output/github-contribution-grid-snake.svg" alt="Snake animation">
-</p>
-
 ## Connect
 <p align="center">
-  <a href="https://x.com/yan2441"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="X/Twitter" height="28" /></a>
-  <a href="https://linkedin.com/in/yassine-najem"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="LinkedIn" height="28" /></a>
-  <a href="https://kaggle.com/yassinenajem"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/kaggle.svg" alt="Kaggle" height="28" /></a>
+  <a href="https://x.com/yan2441"><img align="center" src="https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white" alt="X" height="28" /></a>
+  <a href="https://linkedin.com/in/yassine-najem"><img align="center" src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" height="28" /></a>
 </p>
