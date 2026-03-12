@@ -36,16 +36,6 @@
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=yan2441&theme=github-dark&hide_border=true" alt="Activity Graph"/>
 </p>
 
-## 🧩 LeetCode
-<p align="center">
-  <img src="https://leetcard.jacoblin.cool/yasen2441?ext=heatmap&theme=dark" alt="LeetCode Stats"/>
-</p>
-
-## ⏱️ Weekly coding (WakaTime)
-<!--START_SECTION:waka-->
-<!-- Auto-filled by your WakaTime workflow -->
-<!--END_SECTION:waka-->
-
 ---
 
 ## 🧠 AI/ML & GenAI stack
@@ -141,5 +131,4 @@
   <a href="https://x.com/yan2441"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="X/Twitter" height="28" /></a>
   <a href="https://linkedin.com/in/yassine-najem"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="LinkedIn" height="28" /></a>
   <a href="https://kaggle.com/yassinenajem"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/kaggle.svg" alt="Kaggle" height="28" /></a>
-  <a href="https://www.leetcode.com/yasen2441"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="LeetCode" height="28" /></a>
 </p>
