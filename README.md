@@ -17,17 +17,17 @@
 
 ---
 
-## 🚀 Featured projects
+<!-- ## 🚀 Featured projects -->
 
-<!-- Replace the repo names below with your actual repos -->
-<p align="center">
+<!-- Replace the repo names below with your actual repos, then uncomment this section -->
+<!-- <p align="center">
   <a href="https://github.com/yan2441/voicebot">
     <img height="130" src="https://github-readme-stats.vercel.app/api/pin/?username=yan2441&repo=voicebot&theme=github_dark&hide_border=true" alt="voicebot"/>
   </a>
   <a href="https://github.com/yan2441/rag-pipeline">
     <img height="130" src="https://github-readme-stats.vercel.app/api/pin/?username=yan2441&repo=rag-pipeline&theme=github_dark&hide_border=true" alt="rag-pipeline"/>
   </a>
-</p>
+</p> -->
 
 ---
 
