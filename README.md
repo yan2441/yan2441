@@ -12,6 +12,13 @@
 
 <h3 align="center">I build Go services, TypeScript frontends, and production AI (RAG, orchestration, voice)</h3>
 
+<p align="center">
+Software engineer specializing in Go, TypeScript, Python, and AI/ML.<br>
+I build production RAG pipelines, LLM orchestration, voice AI agents,<br>
+and full-stack web applications with React, Next.js, and gRPC microservices.<br>
+Experienced with LangChain, pgvector, Pinecone, Kubernetes, and Terraform.
+</p>
+
 - Portfolio: **https://yassdev.netlify.app/**
 - Contact: **Yassine.najem01@gmail.com**
 
