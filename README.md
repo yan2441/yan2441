@@ -12,15 +12,31 @@
 
 <h3 align="center">I build Go services, TypeScript frontends, and production AI (RAG, orchestration, voice)</h3>
 
+<p align="center">
+Software engineer specializing in Go, TypeScript, Python, and AI/ML.<br>
+I build production RAG pipelines, LLM orchestration, voice AI agents,<br>
+and full-stack web applications with React, Next.js, and gRPC microservices.<br>
+Experienced with LangChain, pgvector, Pinecone, Kubernetes, and Terraform.
+</p>
+
 - Portfolio: **https://yassdev.netlify.app/**
 - Contact: **Yassine.najem01@gmail.com**
 
 ---
 
-## 📊 Metrics (auto-updated)
-<p align="center">
-  <img src="./github-metrics.svg" alt="GitHub Metrics" />
-</p>
+<!-- ## 🚀 Featured projects -->
+
+<!-- Replace the repo names below with your actual repos, then uncomment this section -->
+<!-- <p align="center">
+  <a href="https://github.com/yan2441/voicebot">
+    <img height="130" src="https://github-readme-stats.vercel.app/api/pin/?username=yan2441&repo=voicebot&theme=github_dark&hide_border=true" alt="voicebot"/>
+  </a>
+  <a href="https://github.com/yan2441/rag-pipeline">
+    <img height="130" src="https://github-readme-stats.vercel.app/api/pin/?username=yan2441&repo=rag-pipeline&theme=github_dark&hide_border=true" alt="rag-pipeline"/>
+  </a>
+</p> -->
+
+---
 
 ## 📈 GitHub stats
 <p align="center">
@@ -35,16 +51,6 @@
 <p align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=yan2441&theme=github-dark&hide_border=true" alt="Activity Graph"/>
 </p>
-
-## 🧩 LeetCode
-<p align="center">
-  <img src="https://leetcard.jacoblin.cool/yasen2441?ext=heatmap&theme=dark" alt="LeetCode Stats"/>
-</p>
-
-## ⏱️ Weekly coding (WakaTime)
-<!--START_SECTION:waka-->
-<!-- Auto-filled by your WakaTime workflow -->
-<!--END_SECTION:waka-->
 
 ---
 
@@ -61,10 +67,8 @@
   <img alt="LangChain" src="https://img.shields.io/badge/LangChain-000000?style=flat">
   <img alt="LlamaIndex" src="https://img.shields.io/badge/LlamaIndex-000000?style=flat">
   <!-- Retrieval -->
-  <img alt="Qdrant" src="https://img.shields.io/badge/Qdrant-000000?style=flat">
-  <img alt="Weaviate" src="https://img.shields.io/badge/Weaviate-000000?style=flat">
-  <img alt="Pinecone" src="https://img.shields.io/badge/Pinecone-000000?style=flat">
   <img alt="pgvector" src="https://img.shields.io/badge/pgvector-000000?style=flat">
+  <img alt="Pinecone" src="https://img.shields.io/badge/Pinecone-000000?style=flat">
   <!-- Eval & guardrails -->
   <img alt="OpenTelemetry" src="https://img.shields.io/badge/OpenTelemetry-000000?style=flat">
 </p>
@@ -88,6 +92,8 @@
   <img alt="Kafka" src="https://img.shields.io/badge/Kafka-231F20?logo=apachekafka&logoColor=white">
   <img alt="GraphQL" src="https://img.shields.io/badge/GraphQL-E10098?logo=graphql&logoColor=white">
   <img alt="OpenAPI" src="https://img.shields.io/badge/OpenAPI-6BA539?logo=openapiinitiative&logoColor=white">
+  <img alt="MongoDB" src="https://img.shields.io/badge/MongoDB-47A248?logo=mongodb&logoColor=white">
+  <img alt="SQLite" src="https://img.shields.io/badge/SQLite-003B57?logo=sqlite&logoColor=white">
 </p>
 
 ## 🎛️ Front-end stack
@@ -118,28 +124,13 @@
   <img alt="Terraform" src="https://img.shields.io/badge/Terraform-7B42BC?logo=terraform&logoColor=white">
   <img alt="APISIX" src="https://img.shields.io/badge/Apache%20APISIX-000000?style=flat">
   <img alt="NGINX" src="https://img.shields.io/badge/NGINX-009639?logo=nginx&logoColor=white">
-</p>
-
-## 🗄️ Data & storage
-<p align="center">
-  <img alt="PostgreSQL" src="https://img.shields.io/badge/Postgres-4169E1?logo=postgresql&logoColor=white">
-  <img alt="MySQL" src="https://img.shields.io/badge/MySQL-4479A1?logo=mysql&logoColor=white">
-  <img alt="MongoDB" src="https://img.shields.io/badge/MongoDB-47A248?logo=mongodb&logoColor=white">
-  <img alt="SQLite" src="https://img.shields.io/badge/SQLite-003B57?logo=sqlite&logoColor=white">
   <img alt="S3" src="https://img.shields.io/badge/Amazon%20S3-569A31?logo=amazons3&logoColor=white">
 </p>
 
 ---
 
-## 🐍 Contribution snake
-<p align="center">
-  <img src="https://raw.githubusercontent.com/yan2441/yan2441/output/github-contribution-grid-snake.svg" alt="Snake animation">
-</p>
-
 ## Connect
 <p align="center">
-  <a href="https://x.com/yan2441"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="X/Twitter" height="28" /></a>
-  <a href="https://linkedin.com/in/yassine-najem"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="LinkedIn" height="28" /></a>
-  <a href="https://kaggle.com/yassinenajem"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/kaggle.svg" alt="Kaggle" height="28" /></a>
-  <a href="https://www.leetcode.com/yasen2441"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="LeetCode" height="28" /></a>
+  <a href="https://x.com/yan2441"><img align="center" src="https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white" alt="X" height="28" /></a>
+  <a href="https://linkedin.com/in/yassine-najem"><img align="center" src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" height="28" /></a>
 </p>
