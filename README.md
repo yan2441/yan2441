@@ -19,8 +19,8 @@ and full-stack web applications with React, Next.js, and gRPC microservices.<br>
 Experienced with LangChain, pgvector, Pinecone, Kubernetes, and Terraform.
 </p>
 
-- Portfolio: **https://yassdev.netlify.app/**
-- Contact: **Yassine.najem01@gmail.com**
+- Portfolio: **https://yassinenajem.com/**
+- Contact: **contact@yassinenajem.com**
 
 ---
 
