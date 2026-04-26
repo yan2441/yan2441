@@ -4,7 +4,7 @@
 </div>
 
 <p align="center">
-  <a href="https://yassdev.netlify.app/"><img alt="Website" src="https://img.shields.io/badge/Website-yassdev.netlify.app-0D1117?style=flat&logo=vercel&logoColor=white"></a>
+  <a href="https://yassinenajem.com/"><img alt="Website" src="https://img.shields.io/badge/Website-yassinenajem.com-0D1117?style=flat&logo=vercel&logoColor=white"></a>
   <a href="https://x.com/yan2441"><img alt="X" src="https://img.shields.io/badge/@yan2441-0D1117?style=flat&logo=x&logoColor=white"></a>
   <a href="https://linkedin.com/in/yassine-najem"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-Yassine%20Najem-0A66C2?style=flat&logo=linkedin&logoColor=white"></a>
   <img alt="Views" src="https://komarev.com/ghpvc/?username=yan2441&label=Profile%20views&color=0e75b6&style=flat">
